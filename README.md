@@ -1,2 +1,3 @@
-# ANALISES_IC_USP
-Análises de dados da minha Iniciação Científica
+# Análises de dados da minha Iniciação Científica
+
+Utilizando Python
