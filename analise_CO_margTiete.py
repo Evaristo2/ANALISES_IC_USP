@@ -7,7 +7,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 #Para a leitura dos dados, temos:
-#Arquivo xlsx disponível no repositório
+#Arquivo xlsx disponível no repositório -> CO 2019 a 2022.xlsx <-
 
 dt = pd.read_excel(r'')
 
