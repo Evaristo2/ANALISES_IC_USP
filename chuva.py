@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Conjunto de dados disponível no repositório -> Arquivo: "chuva.xlsx"
+# Conjunto de dados disponível no repositório -> Arquivo: "chuva (1).xlsx"
 chuva = pd.read_excel("")
 
 chuva.columns = ("mes", "chuva_2021", "media", "diferenca")
